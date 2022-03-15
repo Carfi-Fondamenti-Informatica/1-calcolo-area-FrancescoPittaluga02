@@ -12,5 +12,10 @@ int main() {
     area_rettangolo = a * b  ;
     area_trapezio = ((a + b) * c)/2 ;
 
+    cout << area_triangolo << endl ;
+    cout << area_quadrato << endl ;
+    cout << area_rettangolo << endl ;
+    cout << area_trapezio << endl ;
+
     return 0;
 }
